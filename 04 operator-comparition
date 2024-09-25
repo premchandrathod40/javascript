@@ -1,0 +1,22 @@
+var n1=50;
+var n2=50;
+//var result =n1==n2;
+console.log(n1==n2);
+
+console.log("__________===_________________");
+
+var n1="50";
+var n2=50;
+console.log(n1===n2);
+console.log("__________is not equal_________________");
+var n1=10;
+var n2=20;
+console.log(n1!=n2);
+console.log(n1>n2);
+console.log(n1>10);
+console.log(n1>=10);
+
+console.log("__________lese than________________")
+console.log(n1<n2);
+console.log(n1<10);
+console.log(n1<=10);

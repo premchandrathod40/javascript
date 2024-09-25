@@ -1,0 +1,14 @@
+var n1=10;
+var n2=5;
+var result=n1+n2;
+console.log(`addition resut is: ${result}`);
+var result=n1-n2;
+console.log(`subtraction resut is: ${result}`);
+var result=n1*n2;
+console.log(`multipication resut is: ${result}`);
+var result=n1/n2;
+console.log(`Divition resut is: ${result}`);
+var result=n1%n2;
+console.log(`modules resut is: ${result}`);
+var result=n1**n2;
+console.log(`Exponential resut is: ${result}`);
